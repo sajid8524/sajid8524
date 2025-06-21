@@ -2,7 +2,7 @@
 <p align="center">
   <b>ECE @ IIITDM Kurnool | Data Science @ IIT Madras | VLSI & Embedded Enthusiast</b><br>
   👨‍💻 Passionate about VLSI, Embedded Systems, and AI-Enabled Solutions<br>
-  🚀 Building CitizenAI and Smart Hardware Projects
+  🚀 Building  Smart Hardware Projects
 </p>
 
 ---
