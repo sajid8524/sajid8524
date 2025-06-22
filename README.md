@@ -30,7 +30,7 @@
 ## 🧠 Ongoing Learning
 - 🎓 **B.Tech ECE** at IIITDM Kurnool
 - 📚 **BS Data Science & Applications** at IIT Madras
-- 🔬 Exploring VLSI Design, Digital Verification, and Smart IoT Systems
+- 🔬 Exploring VLSI Design, Design Verification, and Smart IoT Systems
 
 ---
 
